@@ -142,74 +142,16 @@ src="https://streak-stats.demolab.com?user=ChamathkaGawarammana&theme=tokyonight
 
 ---
 
-# 📊 Contribution Graph
+# 📊Contribution Graph
 
 <p align="center">
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=ChamathkaGawarammana&theme=tokyo-night&hide_border=true"
-/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ChamathkaGawarammana&theme=github-dark&hide_border=true"
+    alt="Chamathka's contribution graph"
+  />
 </p>
 
 ---
-
-# 🚀 Featured Projects
-
-## 🚢 Fuel Efficiency Prediction for Vessels
-
-A research-based machine learning project focused on predicting vessel fuel efficiency using weather conditions, voyage information, and operational data.
-
-**Tech Stack**
-
-- Python
-- Pandas
-- Scikit-Learn
-- Machine Learning
-- Data Visualization
-
----
-
-## 📊 Business Intelligence Dashboard
-
-Interactive Power BI dashboard for business insights, KPI monitoring, and decision-making.
-
-**Technologies**
-
-- Power BI
-- Excel
-- SQL
-
----
-
-## 🏙️ CityTrack Reporting System
-
-A web-based reporting platform developed using modern web technologies.
-
-**Technologies**
-
-- React
-- Firebase
-- Supabase
-- JavaScript
-
----
-
-## 📑 ABANS Annual Report Dashboard
-
-An interactive financial dashboard developed using Power BI to visualize business performance and annual reports.
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master Machine Learning
-- ✅ Learn Data Engineering
-- ✅ Build AI-powered Applications
-- ✅ Contribute to Open Source
-- ✅ Land a Data Science Internship
-- ✅ Publish High-Quality GitHub Projects
-
----
-
 <p align="center">
 
 ### ⭐ Thanks for visiting my profile!
