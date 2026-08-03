@@ -116,21 +116,6 @@ and continuously learning modern technologies in AI, Data Engineering, Cloud Com
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=ChamathkaGawarammana&show_icons=true&theme=tokyonight&hide_border=true"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamathkaGawarammana&layout=compact&theme=tokyonight&hide_border=true"
-/>
-</p>
-
----
 
 # 🔥 GitHub Streak
 
