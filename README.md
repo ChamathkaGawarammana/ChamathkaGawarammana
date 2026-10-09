@@ -1,7 +1,7 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=200&section=header&text=Chamathka%20Gawarammana&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%26%20Business%20Analytics%20%7C%20Software%20Developer%20%7C%20AI%20%26%20Data%20Enthusiast&descSize=16&descAlignY=60" alt="header" />
+<img width="100%" src="assets/header.svg" alt="header" />
 
 <br/>
 
@@ -102,7 +102,7 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ChamathkaGawarammana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ChamathkaGawarammana&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="180" src="https://streak-stats.demolab.com?user=ChamathkaGawarammana&theme=tokyonight&hide_border=true" />
 
 <br/>
@@ -116,7 +116,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ChamathkaGawarammana&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="95%" src="https://ghchart.rshah.org/409ba5/ChamathkaGawarammana" alt="Contribution graph" />
 </p>
 
 ---
@@ -126,6 +126,6 @@
 ### ⭐ Thanks for visiting my profile!
 Let's connect and build something amazing together.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=100&section=footer" />
+<img width="100%" src="assets/footer.svg" alt="footer" />
 
 </div>
