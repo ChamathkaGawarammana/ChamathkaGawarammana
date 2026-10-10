@@ -5,35 +5,30 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ChamathkaGawarammana&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="profile views" />
-<a href="https://github.com/ChamathkaGawarammana?tab=followers">
-  <img src="https://img.shields.io/github/followers/ChamathkaGawarammana?label=FOLLOWERS&style=for-the-badge&color=0e75b6&labelColor=555555" alt="followers" />
-</a>
-
 <br/><br/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Chamathka+%F0%9F%91%8B;Turning+data+into+meaningful+insights;Building+software+that+solves+real+problems;Learning+AI+%26+Cloud+every+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Chamathka+%F0%9F%91%8B;Turning+data+into+meaningful+insights;Building+ML+models+that+predict+real+problems;Learning+AI+%26+Cloud+every+day" alt="Typing SVG" />
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Who I am
 
 <div align="center">
 
-| | |
+| 📌 | Details |
 |---|---|
-| 🎓 **Education** | 3rd Year BSc (Hons) Data Science & Business Analytics |
-| 🏫 **University** | General Sir John Kotelawala Defence University (KDU), Sri Lanka |
-| 🔭 **Working on** | 🚢 Fuel Efficiency Prediction for Vessels (Research) · 📊 BI & Analytics Dashboards |
-| 🌱 **Learning** | Machine Learning · Hadoop · Data Engineering · Docker · Cloud · Advanced SQL |
-| 🤝 **Open to** | Data Science Projects · AI Apps · Full Stack Dev · Open Source |
-| 💬 **Ask me about** | Python, data analysis, dashboards, React |
-| ⚡ **Fun fact** | I turn messy CSVs into clean stories 📈 |
+|  **Education** | 3rd Year BSc (Hons) Data Science & Business Analytics |
+|  **University** | General Sir John Kotelawala Defence University (KDU), Sri Lanka |
+| **Working on** |  Fuel Efficiency Prediction for Vessels (Group Project) ·  BI & Analytics Dashboards  · Error 404    |
+|  **Learning** | Machine Learning · Hadoop · Data Engineering · Docker · Cloud · Advanced SQL |
+|  **Open to** | Data Science Projects · AI Apps · Machine Learning models  ·   |
+|  **Ask me about** | Python, data analysis, dashboards, React |
+|  **Fun fact** | I turn messy CSVs into clean stories 📈 |
 
 </div>
 
@@ -48,7 +43,7 @@
   <a href="mailto:chamathkagawarammana@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <!-- Add this when you have one -->
+  <!-- Add this when you have a portfolio site -->
   <!--
   <a href="https://your-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -60,22 +55,22 @@
 
 ## 🛠️ Tech Stack & Tools
 
-### 🐍 Languages
+###  Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,r&perline=6" />
 </p>
 
-### 🌐 Frontend
+###  Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&perline=4" />
 </p>
 
-### ⚙️ Backend & Databases
+###  Backend & Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,postgres,mongodb&perline=5" />
 </p>
 
-### 📊 Data Science & Analytics
+###  Data Science & Analytics
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,tensorflow&perline=3" />
   <br/>
@@ -86,19 +81,19 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-### 🚀 DevOps & Cloud (learning)
+###  DevOps & Cloud (learning)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,aws,linux,git&perline=4" />
 </p>
 
-### 🧰 Tools
+###  Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,postman,figma&perline=5" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -112,16 +107,6 @@
 </div>
 
 ---
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img width="95%" src="https://ghchart.rshah.org/409ba5/ChamathkaGawarammana" alt="Contribution graph" />
-</p>
-
----
-
-<div align="center">
 
 ### ⭐ Thanks for visiting my profile!
 Let's connect and build something amazing together.
