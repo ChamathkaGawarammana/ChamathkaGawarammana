@@ -40,9 +40,9 @@
   <a href="https://www.linkedin.com/in/chamathka-gawarammana-20871b275/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:chamathkagawarammana@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=chamathkagawarammana@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   <!-- Add this when you have a portfolio site -->
   <!--
   <a href="https://your-portfolio.vercel.app">
